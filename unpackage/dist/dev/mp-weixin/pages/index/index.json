@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "丰树地磅",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#034ea1",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "customloading": "../demo-loading/demo-loading"
+  }
+}

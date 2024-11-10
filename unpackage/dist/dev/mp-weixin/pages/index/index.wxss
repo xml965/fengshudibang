@@ -1,0 +1,192 @@
+.container.data-v-1cf27b2a {
+  font-family: Arial, sans-serif;
+  width: 100%;
+  font-size: 17px;
+}
+.header.data-v-1cf27b2a {
+  position: fixed;
+  top: 0;
+  padding: 10px 0;
+  width: 100%;
+  font-size: 1em;
+  display: flex;
+  background-color: #fff;
+  border-bottom: 0.5px solid #ccc;
+}
+.header .title.data-v-1cf27b2a {
+  font-weight: 500;
+  margin-right: auto;
+  text-align: center;
+  flex: 1;
+}
+.header .history.data-v-1cf27b2a {
+  position: absolute;
+  right: 10px;
+  color: #007aff;
+}
+.tabs.data-v-1cf27b2a {
+  margin-top: 43px;
+  display: flex;
+  background-color: white;
+  border: 1px solid #3d7efc;
+  border-radius: 7px;
+  color: #3d7efc;
+  height: 25px;
+  margin-bottom: 35px;
+}
+.custom-button.data-v-1cf27b2a {
+  flex: 1;
+  border: none;
+  box-shadow: none;
+  /* 移除阴影 */
+  border-right: 1px solid #3d7efc !important;
+  border-radius: 0px;
+  font-size: 0.8em;
+  color: #3d7efc;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+}
+.custom-button.active.data-v-1cf27b2a {
+  background-color: #3d7efc;
+  color: white;
+  border-radius: 0;
+}
+.section.data-v-1cf27b2a {
+  padding: 3px 10px;
+  background-color: #fff;
+  margin: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+.card-info.data-v-1cf27b2a {
+  box-shadow: 0px 4px 12px #eee;
+}
+.card-info .card-num.data-v-1cf27b2a {
+  display: flex;
+  align-items: center;
+  height: 33px;
+  line-height: 33px;
+  margin-top: 5px;
+}
+.card-info .card-num .card-num-name.data-v-1cf27b2a {
+  height: 33px;
+  line-height: 33px;
+  margin: 0 15px 0px 10px;
+}
+.card-info .card-num .input-card-num.data-v-1cf27b2a {
+  height: 33px;
+  line-height: 33px;
+  padding-left: 10px;
+  width: 66%;
+  border: 0.7px solid #009aee;
+}
+.card-info .uni-list .uni-list-cell-pd.data-v-1cf27b2a {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 10px 20px 10px;
+}
+.card-info .uni-list .checkmark.data-v-1cf27b2a {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+.card-info .uni-list .icon.data-v-1cf27b2a {
+  color: #007aff;
+  /* 设置勾勾颜色为蓝色 */
+  font-size: 16px;
+}
+.quick-select.data-v-1cf27b2a {
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  line-height: 60px;
+}
+.quick-select .num-select-name.data-v-1cf27b2a {
+  margin: 0px 15px 20px 10px;
+}
+.quick-select .record.data-v-1cf27b2a {
+  font-size: 13px;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  width: 36%;
+}
+.quick-select .record .history-record.data-v-1cf27b2a {
+  color: #007aff;
+}
+.quick-select .record .in-record.data-v-1cf27b2a {
+  color: #59d7dd;
+}
+.other-info.data-v-1cf27b2a {
+  box-shadow: 0px 4px 12px #eee;
+}
+.other-info .other-line.data-v-1cf27b2a {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 10px 20px 10px;
+}
+.other-info .other-line .card-num-name.data-v-1cf27b2a {
+  height: 33px;
+  line-height: 33px;
+}
+.other-info .other-line .input-card-num.data-v-1cf27b2a {
+  height: 33px;
+  line-height: 33px;
+  padding-left: 10px;
+  width: 58%;
+  border: 0.7px solid #009aee;
+}
+.other-info .other-line .other-line2.data-v-1cf27b2a {
+  display: flex;
+  width: 80%;
+  line-height: 25px;
+}
+.other-info .other-line .other-line2 .line2-name.data-v-1cf27b2a {
+  margin-right: 10px;
+}
+.other-info .other-line .other-line2 .company-input.data-v-1cf27b2a {
+  width: 60%;
+}
+.other-info .other-line .history-record.data-v-1cf27b2a {
+  line-height: 25px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #007aff;
+}
+.other-info .card-weight-line.data-v-1cf27b2a {
+  margin-top: 4px !important;
+  margin-right: 0px;
+}
+.warning.data-v-1cf27b2a {
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin: 15px;
+  box-shadow: 0px 4px 12px #eee;
+}
+.warning .warn-title.data-v-1cf27b2a {
+  font-size: 1.7em;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.warning .warn-content.data-v-1cf27b2a {
+  font-size: 15px;
+  color: #666;
+}
+.start-button.data-v-1cf27b2a {
+  width: 98%;
+  padding: 4px 0;
+  background-color: #3b7ffc;
+  color: white;
+  border: none;
+  border-radius: 0px;
+  font-size: 17px;
+  position: fixed;
+  left: 1%;
+  bottom: 5px;
+}

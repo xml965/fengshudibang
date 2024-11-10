@@ -1,0 +1,1 @@
+<view class="container data-v-45acf524"><view wx:if="{{a}}" class="modal-overlay data-v-45acf524"><view class="modal-content data-v-45acf524"><image class="loading-icon data-v-45acf524" src="{{b}}"></image><text class="modal-text data-v-45acf524">{{c}}</text></view></view></view>
